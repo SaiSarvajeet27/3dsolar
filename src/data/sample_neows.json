@@ -1,0 +1,88 @@
+{
+  "near_earth_objects": {
+    "2026-02-07": [
+      {
+        "name": "A-1",
+        "id": "A-1",
+        "is_potentially_hazardous_asteroid": false,
+        "orbital_data": {
+          "inclination": "5.0",
+          "eccentricity": "0.10"
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-02-07",
+            "relative_velocity": {
+              "kilometers_per_second": "12.000"
+            },
+            "miss_distance": {
+              "kilometers": "40000"
+            }
+          }
+        ]
+      },
+      {
+        "name": "A-2",
+        "id": "A-2",
+        "is_potentially_hazardous_asteroid": true,
+        "orbital_data": {
+          "inclination": "20.0",
+          "eccentricity": "0.30"
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-02-07",
+            "relative_velocity": {
+              "kilometers_per_second": "8.5"
+            },
+            "miss_distance": {
+              "kilometers": "150000"
+            }
+          }
+        ]
+      }
+    ],
+    "2026-02-08": [
+      {
+        "name": "A-3",
+        "id": "A-3",
+        "is_potentially_hazardous_asteroid": false,
+        "orbital_data": {
+          "inclination": "45.0",
+          "eccentricity": "0.50"
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-02-08",
+            "relative_velocity": {
+              "kilometers_per_second": "6.5"
+            },
+            "miss_distance": {
+              "kilometers": "384400"
+            }
+          }
+        ]
+      },
+      {
+        "name": "A-4",
+        "id": "A-4",
+        "is_potentially_hazardous_asteroid": false,
+        "orbital_data": {
+          "inclination": "10.0",
+          "eccentricity": "0.05"
+        },
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-02-08",
+            "relative_velocity": {
+              "kilometers_per_second": "15.2"
+            },
+            "miss_distance": {
+              "kilometers": "80000"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
